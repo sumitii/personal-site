@@ -1,4 +1,4 @@
-baseURL = "https://sumitii.github.io"
+baseURL = "//sumitii.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Sumita Mukund"
