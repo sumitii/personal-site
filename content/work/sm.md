@@ -4,8 +4,8 @@ date: 2020-07-07T21:02:18-07:00
 draft: false
 type: work
 layout: demo
-featured_image: '/images/sudarsna-intro.png'
-secondary_image: '/images/sudarsna-gallery.png'
+featured_image: '/personal-site/images/sudarsna-intro.png'
+secondary_image: '/personal-site/images/sudarsna-gallery.png'
 capabilities: ["UX Strategy", "Website Design", "UX Research"]
 ---
 

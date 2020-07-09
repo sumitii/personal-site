@@ -4,10 +4,10 @@ date: 2020-07-07T21:02:18-07:00
 draft: false
 type: work
 layout: demo
-featured_image: '/images/tigersoup-intro.png'
-secondary_image: '/images/tigersoup-contact.png'
-tertiary_image: '/images/IPhone_1_Homepage.png'
-fourth_image: '/images/IPhone_2_Menu.png'
+featured_image: '/personal-site/images/tigersoup-intro.png'
+secondary_image: '/personal-site/images/tigersoup-contact.png'
+tertiary_image: '/personal-site/images/IPhone_1_Homepage.png'
+fourth_image: '/personal-site/images/IPhone_2_Menu.png'
 capabilities: ["User Experience Strategy", "Front End Development", "Website Design", "Experience Design"]
 ---
 
