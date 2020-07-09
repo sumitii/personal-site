@@ -1,0 +1,18 @@
+baseURL = "http://localhost:1313/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "Sumita Mukund"
+theme = "my-custom-theme"
+[[menu.main]]
+  name = "Work"
+  weight = 1
+  identifier = "work"
+  url = "/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  identifier = "about"
+  url = "/about/"
+[params]
+  custom_js = ["/js/main.js"]
+  bgImage = ["/images/tiger-hunt.png"]

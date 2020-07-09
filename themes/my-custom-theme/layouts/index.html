@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="portfolio__display">
+  <div class="portfolio__bg-image-wrapper">
+    {{ range .Params.images }}
+    <div class="portfolio__bg-image js-bg-image" data-title="{{ .title }}" data-background="{{ .image_path }}"></div>
+    {{ end }}
+  </div>
+  <ul class="portfolio__list">
+    {{ range .Params.portfolio_links }}
+    <li class="portfolio__list-item"><a class="portfolio__list-link h1 js-portfolio-link" href="{{ .link }}" data-link-title="{{ .title }}">{{ .title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ partial "site-footer" . }}
+{{ end }}

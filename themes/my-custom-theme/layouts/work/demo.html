@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="work-demo">
+  {{ .Content }}
+  <div class="work-demo__image-wrapper">
+    <div class="work-demo__image">
+      <img src="{{ .Params.featured_image }}" alt="TigerSoup intro page" />
+    </div>
+    <div class="work-demo__image">
+      <img src="{{ .Params.secondary_image }}" alt="TigerSoup intro page" />
+    </div>
+    {{ if .Params.tertiary_image }}
+    <div class="work-demo__image-column">
+      <img src="{{ .Params.tertiary_image }}" alt="TigerSoup intro page" />
+      <img src="{{ .Params.fourth_image }}" alt="Mobile navigation menu" />
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ partial "capabilities" . }}
+{{ partial "site-footer" . }}
+{{ end }}

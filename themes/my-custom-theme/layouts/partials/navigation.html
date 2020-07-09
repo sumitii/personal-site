@@ -1,0 +1,17 @@
+<div class="navigation__wrapper">
+  <div class="navigation__inner">
+    <div class="navigation__flex-wrapper">
+      <div class="h3"><a class="navigation__header" href="/">Sumita</a></div>
+      <div>
+        <ul class="navigation__list">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.main }}
+          <li class="navigation__list-item">
+            <a class="navigation__list-link {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,298 @@
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  src: url("../fonts/Karla/Karla-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  src: url("../fonts/Spectral/Spectral-Regular.ttf");
+}
+
+body {
+  margin: 0;
+}
+
+html {
+  background: #D6D1CD;
+  font-family: 'Karla';
+
+}
+
+a {
+  color: #F64740;
+}
+
+.-animate-portfolio {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  bottom: 0;
+  left: 0;
+  opacity: 0.5 !important;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: opacity 900ms;
+  z-index: -100;
+}
+
+.h1 {
+  font-family: 'Spectral';
+  font-size: 36px;
+
+  @media screen and (min-width: 768px) {
+    font-size: 52px;
+  }
+}
+
+.h2 {
+  font-family: 'Spectral';
+  font-size: 36px;
+}
+
+.h3 {
+  font-family: 'Spectral';
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.active {
+  text-decoration: underline !important;
+}
+
+.navigation {
+  &__header {
+    color: #171614;
+    text-decoration: none;
+  }
+
+  &__wrapper {
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 10;
+  }
+
+  &__inner {
+    box-sizing: border-box;
+    padding: 2.5vw 3vw;
+    pointer-events: auto;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+  }
+
+  &__flex-wrapper {
+    align-items: center;
+    display: flex;
+    height: inherit;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+  }
+
+  &__list-item {
+    padding-right: 2vw;
+  }
+
+  &__list-link {
+    color: #171614;
+    font-size: 16px;
+    text-decoration: none;
+  }
+}
+
+.portfolio {
+  &__display {
+    display: flex;
+    flex-direction: column;
+    min-height: 50vh;
+    padding-top: 86px;
+    position: relative;
+    width: 100%;
+  }
+
+  &__bg-image {
+    opacity: 0;
+  }
+
+  &__list {
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding: 5vw;
+    text-align: center;
+  }
+
+  &__list-item {
+    padding-bottom: 3rem;
+  }
+
+  &__list-link {
+    color: #171614;
+    text-decoration: none;
+  }
+}
+
+.content-wrapper {
+  padding: 4rem 2rem;
+
+  @media screen and (min-width: 768px) {
+    padding: 4rem 7rem;
+  }
+}
+
+.about {
+  &__content {
+    margin: 5rem auto 0 auto;
+    width: 100%;
+
+    h2 {
+      font-family: 'Spectral';
+      font-size: 36px;
+      font-weight: 500;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    @media screen and (min-width: 768px) {
+      width: 70%
+    }
+  }
+
+  &__social {
+    margin-right: 32px;
+  }
+
+  &__contact-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5rem;
+  }
+
+  &__social-link-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  &__social-link-list-item {
+    padding-bottom: .5rem;
+  }
+
+  &__social-link {
+    color: #F64740;
+  }
+}
+
+.writing-demo {
+  align-items: left;
+  text-align: left;
+
+  h3 {
+    font-family: 'Spectral';
+    margin-bottom: 0;
+    margin-top: 3rem;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.work-demo {
+  align-items: center;
+  text-align: center;
+}
+
+.work-demo,
+.writing-demo {
+  display: flex;
+  flex-direction: column;
+  margin: 4rem auto 0 auto;
+  padding: 2rem;
+
+  @media screen and (min-width: 768px) {
+    margin: 6rem auto 4rem auto;
+    padding: 4rem;
+    width: 50%
+  }
+
+  h2 {
+    font-family: 'Spectral';
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  &__image {
+    padding: 3rem 0;
+
+    img {
+      width: 90vw;
+    }
+  }
+
+  &__image-column {
+    display: flex;
+    flex-direction: column;
+    padding: 6rem 0;
+
+    img {
+      width: 90vw;
+      margin-bottom: 4rem;
+    }
+
+    @media screen and (min-width: 768px) {
+      flex-direction: row;
+      justify-content: space-between;
+
+      img {
+        width: auto;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+.capabilities {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 0 3rem;
+  text-align: center;
+  width: 50%;
+
+  &__list {
+    list-style: none;
+    padding: 0;
+  }
+
+  &__list-item {
+    font-size: 16px;
+    padding-bottom: 1.5rem;
+  }
+}
+
+.footer {
+  padding: 4rem;
+  text-align: center;
+}

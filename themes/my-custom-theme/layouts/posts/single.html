@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="content-wrapper">
+  <div class="about__content">
+    {{ .Content }}
+    <div class="about__contact-wrapper">
+      <div class="about__contact">
+        <h3 class="h3">Contact</h3>
+        <div>
+          <a href="mailto:sumita913@gmail.com">sumita913@gmail.com</a>
+        </div>
+      </div>
+      <div class="about__social">
+        <h3 class="h3">Connect</h3>
+        <ul class="about__social-link-list">
+          <li class="about__social-link-list-item"><a class="about__social-link" href="#">Github</a></li>
+          <li class="about__social-link-list-item"><a class="about__social-link" href="#">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+{{ partial "site-footer" . }}
+{{ end }}
