@@ -1,4 +1,4 @@
-baseURL = "//sumitii.github.io/"
+baseURL = "https://localhost:1313/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Sumita Mukund"
@@ -15,4 +15,3 @@ theme = "my-custom-theme"
   url = "/about/"
 [params]
   custom_js = ["/js/main.js"]
-  bgImage = ["/images/tiger-hunt.png"]
