@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Sumita Mukund</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sumitii.github.io/</link>
     <description>Recent content in Home on Sumita Mukund</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jul 2020 21:02:18 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sumitii.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creative Works</title>
-      <link>http://localhost:1313/work/creative/</link>
+      <link>https://sumitii.github.io/work/creative/</link>
       <pubDate>Tue, 07 Jul 2020 21:02:18 -0700</pubDate>
       
-      <guid>http://localhost:1313/work/creative/</guid>
+      <guid>https://sumitii.github.io/work/creative/</guid>
       <description>Creative Endeavors Writing, public speaking, and the intersection of technology and pop culture have always been passions of mine. Below are some my creative endeavors.
 Writing A College Essay AKA an Ode to Dunkin&amp;rsquo; Donuts
 Speaking Engagements How Reality TV Inspired me to Learn UX
@@ -25,20 +25,20 @@ Donut JS</description>
     
     <item>
       <title>Sudarsna Mukund</title>
-      <link>http://localhost:1313/work/sm/</link>
+      <link>https://sumitii.github.io/work/sm/</link>
       <pubDate>Tue, 07 Jul 2020 21:02:18 -0700</pubDate>
       
-      <guid>http://localhost:1313/work/sm/</guid>
+      <guid>https://sumitii.github.io/work/sm/</guid>
       <description>Sudarsna Mukund Concept, design, research and strategy for a professional ballerina who also happens to be my sister! Sudarsna Mukund is a ballerina who has performed everywhere from Detroit to Sofia, Bulgaria. She wanted to create a website that functioned as a digital resumé.
 I conducted several rounds of research, leading to some valuable insights about content strategy and best pracitices when showcasing an artistic skillset online. I created designs that were based on the goals of the client and my research.</description>
     </item>
     
     <item>
       <title>Tiger Soup</title>
-      <link>http://localhost:1313/work/tigersoup/</link>
+      <link>https://sumitii.github.io/work/tigersoup/</link>
       <pubDate>Tue, 07 Jul 2020 21:02:18 -0700</pubDate>
       
-      <guid>http://localhost:1313/work/tigersoup/</guid>
+      <guid>https://sumitii.github.io/work/tigersoup/</guid>
       <description>TigerSoup When change comes to an industry, marketing people tend to follow their tried and true methods. As the rules of the game change, it is imperative to think outside the box in order to create successful outcomes for clients. Tiger Soup assembles custom remote teams of creative leaders to solve unique marketing challenges that current resources cannot solve either through lack of available time or lack of experience.
 Working with the team at Amplified by Design, I took on the role of both experience designer and web developer.</description>
     </item>
