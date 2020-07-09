@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313/"
+baseURL = "https://sumitii.github.io/personal-site/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Sumita Mukund"
