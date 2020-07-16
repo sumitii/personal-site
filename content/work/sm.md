@@ -7,6 +7,7 @@ layout: demo
 featured_image: '/personal-site/images/sudarsna-intro.png'
 secondary_image: '/personal-site/images/sudarsna-gallery.png'
 capabilities: ["UX Strategy", "Website Design", "UX Research"]
+logo: '/personal-site/images/logo.png'
 ---
 
 ## Sudarsna Mukund

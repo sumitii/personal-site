@@ -2,6 +2,7 @@
 title: "Home"
 date: 2020-07-07T21:02:18-07:00
 draft: false
+logo: '/personal-site/images/logo.png'
 images:
   - image_path: /personal-site/images/tiger_hunt.jpg
     caption: TigerSoup image

@@ -9,6 +9,7 @@ secondary_image: '/personal-site/images/tigersoup-contact.png'
 tertiary_image: '/personal-site/images/IPhone_1_Homepage.png'
 fourth_image: '/personal-site/images/IPhone_2_Menu.png'
 capabilities: ["Creative Writing"]
+logo: '/personal-site/images/logo.png'
 ---
 
 ## Creative Endeavors

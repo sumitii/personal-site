@@ -1,7 +1,9 @@
 <div class="navigation__wrapper">
   <div class="navigation__inner">
     <div class="navigation__flex-wrapper">
-      <div class="h3"><a class="navigation__header" href="/personal-site/">Sumita</a></div>
+      <div class="h3">
+        <a class="navigation__header" href="/personal-site/"><img class="navigation__logo-image" src="{{ .Params.logo }}" /></a>
+    </div>
       <div>
         <ul class="navigation__list">
           {{ $currentPage := . }}

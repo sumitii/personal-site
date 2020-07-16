@@ -4,10 +4,13 @@ date: 2020-07-07T21:02:18-07:00
 draft: false
 type: posts
 layout: single
+logo: '/personal-site/images/logo.png'
 ---
 
-## Sumita Mukund is a multidisciplinary technologist based in Portland, OR.
+## Sumita is a multidisciplinary technologist based in Portland, OR.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum posuere urna nec tincidunt. Ac odio tempor orci dapibus ultrices in iaculis nunc. Viverra orci sagittis eu volutpat odio facilisis mauris. Quis auctor elit sed vulputate mi sit amet mauris. Risus ultricies tristique nulla aliquet enim tortor at auctor. Sapien pellentesque habitant morbi tristique senectus et netus et.
+I am an Experience Designer with a ten year background as a front-end developer. I live at the intersection of design and technology and work to create meaningful experiences that surprise and delight users.
 
-Venenatis a condimentum vitae sapien pellentesque habitant. Massa tincidunt dui ut ornare. Lectus arcu bibendum at varius vel pharetra vel. Lobortis scelerisque fermentum dui faucibus in ornare quam. Et ultrices neque ornare aenean euismod elementum. Quis viverra nibh cras pulvinar mattis. Id venenatis a condimentum vitae sapien pellentesque. Aliquet eget sit amet tellus cras adipiscing enim eu. Porttitor rhoncus dolor purus non enim praesent elementum facilisis leo. Tempor orci dapibus ultrices in iaculis nunc. Id velit ut tortor pretium viverra.
+In my spare time you can find me writing, cooking while listening to podcasts, and watching any reality TV the Bravo network has to offer. I'm not kidding, I gave my first technical talk about [how reality TV inspired me to learn UX](/personal-site/work/creative/#speaking-engagements). My final form will be achieved when the people I hold near and dear finally heed my pleas to watch Real Housewives so we can embark on a journey of laughs together.
+
+I am currently freelancing. Please feel free to reach out via email about speaking engagements, experience design, development, or anything based on my interests!
