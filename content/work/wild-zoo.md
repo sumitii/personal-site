@@ -1,10 +1,10 @@
 ---
-title: "Sudarsna Mukund"
+title: "The Wild Zoo"
 date: 2020-07-07T21:02:18-07:00
 draft: false
 type: work
 layout: demo
-capabilities: ["UX Strategy", "Website Design", "UX Research"]
+capabilities: ["UX Design", "App Design", "UX Research"]
 logo: '/personal-site/images/logo.png'
 ---
 
