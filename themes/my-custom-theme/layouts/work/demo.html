@@ -2,12 +2,6 @@
 <div class="work-demo">
   {{ .Content }}
   <div class="work-demo__image-wrapper">
-    <div class="work-demo__image">
-      <img src="{{ .Params.featured_image }}" alt="TigerSoup intro page" />
-    </div>
-    <div class="work-demo__image">
-      <img src="{{ .Params.secondary_image }}" alt="TigerSoup intro page" />
-    </div>
     {{ if .Params.tertiary_image }}
     <div class="work-demo__image-column">
       <img src="{{ .Params.tertiary_image }}" alt="TigerSoup intro page" />

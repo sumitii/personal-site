@@ -220,11 +220,6 @@ a {
   }
 }
 
-.work-demo {
-  align-items: center;
-  text-align: center;
-}
-
 .work-demo,
 .writing-demo {
   display: flex;
@@ -235,7 +230,7 @@ a {
   @media screen and (min-width: 768px) {
     margin: 6rem auto 0 auto;
     padding: 4rem;
-    width: 50%
+    width: 60%;
   }
 
   h2 {
@@ -244,7 +239,7 @@ a {
   }
 
   p {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.5;
   }
 
@@ -294,6 +289,12 @@ a {
   &__list-item {
     font-size: 16px;
     padding-bottom: 1.5rem;
+  }
+}
+
+.zoo-image {
+  &__flow {
+    width: 100%;
   }
 }
 

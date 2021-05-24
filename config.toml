@@ -15,3 +15,7 @@ theme = "my-custom-theme"
   url = "/about/"
 [params]
   custom_js = ["/js/main.js"]
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
