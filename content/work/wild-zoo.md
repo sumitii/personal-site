@@ -9,7 +9,11 @@ logo: '/personal-site/images/logo.png'
 ---
 
 # The Wild Zoo
-### A graduate prototyping project for Drexel University's CCI Master's Program
+### A graduate prototyping project for the CCI Master's program at Drexel University
+
+### Team: Sumita Mukund, Emily Garverick, Rene Barba
+
+[Functional Prototype](https://www.figma.com/proto/YhC0efNcgR7V8f39aHKMpu/INFO-691-Zoo-Prototype?node-id=2%3A3&scaling=scale-down&page-id=0%3A1 "Wild Zoo Prototype")
 
 ### Product Description
 The Wild Zoo mobile application is ideally designed to allow parents to easily schedule and purchase online tickets for exhibits, events, and other fun activities with the family. In addition, it provides easy access to admission information, parking availability, and resources for trip planning. Integrated features such as QR codes for simple access to the Zoo, imagery support, color enhancements, font clarity, and button visibility to allow a healthy user experience.
@@ -27,7 +31,7 @@ These obstacles may cause parents to experience headaches, stress, anxiety, conf
 
 To minimize these negative symptoms, we established an application system to address these hurdles and reprogram the system with features we believe will anticipate and avoid users' problems. For example, users will access information faster due to well-researched content design, categorizing these questions with answers and links to reduce the number of clicks. The design team focused on content quality, increasing the visibility and color contrast to allow comfort to the eyes. Imagery support enables users to gather memory to locate the destination with verification in mind. The application clarifies how users' can acquire tickets for admission, exhibits, and events to the Zoo. At the end of online ticket purchase to the Zoo, users are granted with OR codes, removing the need to print and reduce the wait times in long lines. 
 
-<img class="zoo-image__flow" src="/personal-site/images/zoo-flow.png" />
+<img class="zoo-image__flow" src="/personal-site/images/wild-zoo-initial.png" />
 
 ### Methodology
 The design process began by addressing who the user is and what obstacles they face when planning a trip to the Zoo. The team brainstormed by gathering ideas and thoughts of our users. We used Stormboard, an online collaborative workspace tool. This tool gave us the space to figure out aspects of the user, such as our ideal user, empathizing with the user, and defining the challenges and obstacles they encounter. We decided to focus on families and empathize with the experience of trip planning for parents of small children. They would want a stress-free experience and easy interactions. It also gave us ideas to include in the functionality, such as big buttons to make multi-tasking easy.
@@ -43,6 +47,8 @@ The final stage was to make adjustments based on feedback and bring our wirefram
 ### Functional Prototype
 
 We worked together in Figma to create a functional prototype of The Wild Zoo app. The prototype can be viewed [here](https://www.figma.com/proto/YhC0efNcgR7V8f39aHKMpu/INFO-691-Zoo-Prototype?node-id=2%3A3&scaling=scale-down&page-id=0%3A1 "Wild Zoo Prototype")
+
+<img class="zoo-image__flow" src="/personal-site/images/zoo-flow.png" />
 
 ### Feedback
 
